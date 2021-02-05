@@ -1,9 +1,9 @@
 #first {
-  font-family:"Lucida Console"; 
-  color:rgb(255, 72, 0); 
+  font-family: "Lucida Console,monospace";
+  color: rgb(255, 72, 0);
 }
 
 .second {
-  font-family:"Georgia"; 
-  color:blueviolet; 
-} 
+  font-family: "Georgia,serif";
+  color: blueviolet;
+}
